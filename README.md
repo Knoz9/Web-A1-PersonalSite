@@ -2,6 +2,9 @@
 
 Welcome to my website project. This documentation provides instructions on how to set up and run the project.
 
+## Preview of one of the pages:
+![image](/Screenshot.png)
+
 ## Cloning the Repository
 
 To clone the repository to your local machine, follow these steps:
