@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Main site km222ug</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="shortcut icon" type="image/x-icon" href="images/favicon.ico">
+    <!-- Optional: Link to Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans&family=Roboto:wght@300&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header></header>
+    <nav></nav>
+
+    <main>
+    </main>
+
+    <footer></footer>
+    <script src="loadContent.js"></script>
+    <script>
+        fetch('typographytoload.html')
+            .then(response => response.text())
+            .then(data => {
+                document.querySelector('main').innerHTML = data;
+            });
+    </script>
+</body>
+</html>
