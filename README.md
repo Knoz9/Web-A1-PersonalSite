@@ -2,7 +2,7 @@
 
 Welcome to my website project. This documentation provides instructions on how to set up and run the project.
 
-[Here](https://coursepress.lnu.se/courses/web-programming/javascript-in-the-browser/assignment) are the assignment instructions.
+[Here](https://coursepress.lnu.se/courses/web-programming/html-css/assignment) are the assignment instructions.
 
 ## Preview of one of the pages:
 ![image](/Screenshot.png)
